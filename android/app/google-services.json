@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "514844707612",
+    "project_id": "yellowclassassignment-254b9",
+    "storage_bucket": "yellowclassassignment-254b9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:514844707612:android:4d0250fdcccf9bfbde08d9",
+        "android_client_info": {
+          "package_name": "com.mayanktolani19.yellow_class"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "514844707612-hndhlo7mp0su6qe74dfs6jvup15pl07r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAoj2A3XoQ-U35WnVlawXPm-F7nJ5gIQl8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "514844707612-hndhlo7mp0su6qe74dfs6jvup15pl07r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
